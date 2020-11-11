@@ -1,4 +1,4 @@
-### Hi there, Phani Kumar aka 'Phanison' 👋
+### Hi there, I'm Phani Kumar aka 'Phanison' 👋
 
 ### I'm a Developer, Tech Nurd, and ofcourse a continues learner
 
