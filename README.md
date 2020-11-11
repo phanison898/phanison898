@@ -1,6 +1,7 @@
-### Hi there, PHANI KUMAR aka -Phanison 👋
-
-### I'm a Developer, Tech Nurd, and a continues learner
+### Hi there, Phani Kumar aka 'Phanison' 👋
+<br />
+<br />
+### I'm a Developer, Tech Nurd, and ofcourse a continues learner
 
 - 🔭 I’m currently working on ... ' Hybrid Selenium Automation framework development '
 - 🌱 I’m currently learning ... AWS, React.js & Vue.js
@@ -9,7 +10,7 @@
 - 💬 Ask me about ... Aything you would like to
 - 😄 Pronouns: ... Bro/Buddy
 - ⚡ Fun fact: ... I'm too lazy to be lazy
-
+<br />
 ### Connect with me:
 
 [<img align="left" alt="phanison | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
