@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... Selenium Automation & Atlassian Bamboo
+- 🔭 I’m currently working on ... ' Hybrid Selenium Automation framework development '
 - 🌱 I’m currently learning ... AWS, React.js & Vue.js
 - 👯 I’m looking to collaborate on ... AWS
 - 🤔 I’m looking for help with ... React.js & Vue.js
