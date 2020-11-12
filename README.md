@@ -9,7 +9,7 @@
 
 Welcome to my Github page! I am Phanison and I am currently working as a DevOps & Automation Engineer at <b>Wipro India Ltd.</b>
 
-<img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
+<img align="right" alt="img" src="https://github.com/phanison898/phanison898/blob/main/cover_image_phanison898.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
