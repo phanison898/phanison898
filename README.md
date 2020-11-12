@@ -23,7 +23,7 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 - Exploring the technical world and adopt changes
 - Improve imagination power to look at the future in a better way
 
-#### computer: Programming languages and tools:
+#### :computer: Programming languages and tools:
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
 
