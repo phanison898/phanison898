@@ -9,6 +9,9 @@
 - 💬 Ask me about ... Aything you would like to
 - 😄 Pronouns: ... Bro/Buddy
 - ⚡ Fun fact: ... I'm too lazy to be lazy
+<br />
+<br />
+[![Phanison's github stats](https://github-readme-stats.vercel.app/api?username=phanison898)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Connect with me:
 
