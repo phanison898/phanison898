@@ -48,10 +48,12 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 <br />
 
 #### More detailed report
-
-<a width="50%" href="https://github.com/phanison898/Selenium-Automation-V2020">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=Selenium-Automation-V2020&theme=prussian&show_icons=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--
+<a href="https://github.com/phanison898/Selenium-Automation-V2020">
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=Selenium-Automation-V2020&theme=prussian&show_icons=true" />
 </a>
-<a width="50%" href="https://github.com/phanison898/PythonAutomation">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=PythonAutomation" />
+<a href="https://github.com/phanison898/PythonAutomation">
+  <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=PythonAutomation" />
 </a>
+--!>
