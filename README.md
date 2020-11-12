@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/phanison225)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white)](https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA/)
 
-Welcome to my Github page! I am Phanison and I am currently as an DevOps & Automation Engineer at ####Wipro India Ltd. 
+Welcome to my Github page! I am Phanison and I am currently as an DevOps & Automation Engineer at <b>Wipro India Ltd.</b>
 
 <img align="right" alt="img" src="https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg" width="50%" height="auto" />
 
