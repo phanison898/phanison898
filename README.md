@@ -48,8 +48,32 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 <br />
 <br />
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=compact&show_icons=true&theme=nord" />
+#### :computer: Skills and possessions: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=compact&show_icons=true&theme=nord" />
+
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
+<br />
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
+<br />
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+</p>
+
+
 <!--
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=compact&show_icons=true&theme=nord" />
 <a href="https://github.com/phanison898/Selenium-Automation-V2020">
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=Selenium-Automation-V2020&theme=prussian&show_icons=true" />
 </a>
