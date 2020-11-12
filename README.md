@@ -45,6 +45,3 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 </p>
-
-#### Key skill
-<a href="https://icon-library.net/icon/selenium-icon-7.html">Selenium Icon #175341</a>
