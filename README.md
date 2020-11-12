@@ -36,6 +36,12 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/saucelabs/saucelabs-icon.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
+<br />
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 </p>
