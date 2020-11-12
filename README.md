@@ -10,7 +10,7 @@
 - 😄 Pronouns: ... Bro/Buddy
 - ⚡ Fun fact: ... I'm too lazy to be lazy
 
-[![Phanison's github stats](https://github-readme-stats.vercel.app/api?username=phanison898)](https://github.com/anuraghazra/github-readme-stats)
+[![Phanison's github stats](https://github-readme-stats.vercel.app/api?username=phanison898)](https://github.com/phanison898/github-readme-stats)
 
 ### Connect with me:
 
