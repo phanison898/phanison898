@@ -45,11 +45,14 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 </p>
-
+<br />
 #### More detailed report
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=Selenium-Automation-V2020&theme=prussian&show_icons=true" />
+<!--
 <a href="https://github.com/phanison898/Selenium-Automation-V2020">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=Selenium-Automation-V2020&theme=prussian&show_icons=true" />
 </a>
 <a href="https://github.com/phanison898/PythonAutomation">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=PythonAutomation" />
 </a>
+--!>
