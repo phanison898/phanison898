@@ -23,6 +23,8 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 - Exploring the technical world and adopt changes
 - Improve imagination power to look at the future in a better way
 
+<br />
+
 #### :computer: Programming languages and tools: 
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
@@ -45,7 +47,6 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 </p>
-<br />
 <br />
 
 #### :computer: Skills and possessions: 
