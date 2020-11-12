@@ -49,9 +49,9 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 
 #### More detailed report
 
-<a width="50%" aligh="left" href="https://github.com/phanison898/Selenium-Automation-V2020">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=Selenium-Automation-V2020&theme=prussian&show_icons=true" />
+<a href="https://github.com/phanison898/Selenium-Automation-V2020">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=Selenium-Automation-V2020&theme=prussian&show_icons=true" />
 </a>
-<a width="45%" aligh="right" href="https://github.com/phanison898/PythonAutomation">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=PythonAutomation" />
+<a href="https://github.com/phanison898/PythonAutomation">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=PythonAutomation" />
 </a>
