@@ -30,8 +30,12 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/saucelabs/saucelabs-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/browserstack/browserstack-icon.svg"></code>
 </p>
