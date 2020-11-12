@@ -47,8 +47,7 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 </p>
 <br />
 
-#### More detailed report
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=compact)](https://github.com/phanison898/Selenium-Automation-V2020)
 <!--
 <a href="https://github.com/phanison898/Selenium-Automation-V2020">
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=Selenium-Automation-V2020&theme=prussian&show_icons=true" />
