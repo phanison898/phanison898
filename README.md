@@ -25,7 +25,7 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 
 #### :computer: Programming languages and tools: 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=cobalt" />
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
