@@ -1,4 +1,4 @@
-### Hi there, I'm Phani Kumar aka 'Phanison' 👋
+## Hi there, I'm Phani Kumar aka 'Phanison' 👋
 
 ### I'm a Developer, Tech Nurd, and ofcourse a continues learner
 
@@ -28,7 +28,7 @@
 
 ---
 
-#### Connect with me:
+### Connect with me:
 
 [<img align="left" alt="phanison | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="phanison | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
