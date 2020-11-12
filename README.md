@@ -1,7 +1,7 @@
 ### Hi there, I'm Phani Kumar aka 'Phanison' 👋
 
 ### I'm a Developer, Tech Nurd, and ofcourse a continues learner
-<br />
+<br/>
 ---
 
 - 🔭 I’m currently working on ... ' Hybrid Selenium Automation framework development '
