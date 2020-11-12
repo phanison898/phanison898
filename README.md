@@ -39,7 +39,7 @@
 ---
 
 ### Stats and progress
-[![Phanison's github stats](https://github-readme-stats.vercel.app/api?username=phanison898)](https://github.com/phanison898)
+[![Phanison's github stats](https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical)](https://github.com/phanison898)
 
 [twitter]: https://twitter.com/phanison225
 [youtube]: https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA
