@@ -1,47 +1,39 @@
-## Hi there, I'm Phani Kumar aka 'Phanison' 👋
+### Hi there 👋 
+### This is Pháni Kumár - aka - Phánison!
 
-### I'm a Developer, Tech Nurd, and ofcourse a continues learner
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/phanison898)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanison225/)
+[![Gmail](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fphanison225)](https://twitter.com/phanison225)
 
----
+Welcome to my Github page! I am Phanison and I am currently as an DevOps & Automation Engineer at Wipro India Ltd. 
 
-- 🔭 I’m currently working on ... ' Hybrid Selenium Automation framework development '
-- 🌱 I’m currently learning ... AWS, React.js & Vue.js
-- 👯 I’m looking to collaborate on ... AWS
-- 🤔 I’m looking for help with ... React.js & Vue.js
-- 💬 Ask me about ... Aything you would like to
-- 😄 Pronouns: ... Bro/Buddy
-- ⚡ Fun fact: ... I'm too lazy to be lazy
+<img align="right" alt="img" src="https://github.com/phanison898/phanison898/blob/master/cover_image.jpg" width="50%" height="auto" />
 
----
 
-### Tools and Skills
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<br/>
+#### 🌱 Things I am currently working on: 
+- Developing hybrid selenium framework to test both web and mobile device based applications through automation
+- Designing custom API for generating application test report with eye catching UI
+- Preparing for AWS certified solutions architect 🚀
 
----
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Coding at least 1/3 portion of every day
+- Exploring the technical world and adopt changes
+- Improve imagination power to look at the future in a better way
 
-### Connect with me:
+#### :computer: Programming languages and tools: 
+<p>
+	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true" />
 
-[<img align="left" alt="phanison | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="phanison | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="phanison | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="phanison | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
-
----
-
-### Stats and progress
-[![Phanison's github stats](https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical)](https://github.com/phanison898)
-
-[twitter]: https://twitter.com/phanison225
-[youtube]: https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA
-[instagram]: https://www.instagram.com/phanison225/
-[linkedin]: https://www.linkedin.com/in/phanison225/
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+</p>
