@@ -41,7 +41,10 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 <br />
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
-<code><img width="5%" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fengineering.naukri.com%2F2016%2F11%2Fverify-colour-elements-using-selenium-webdriver%2Fselenium-logo-3%2F&psig=AOvVaw2i7wSaH72tCodI_SVhKxxq&ust=1605297810156000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiJxr_m_ewCFQAAAAAdAAAAABAb"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 </p>
+
+#### Key skill
+<a href="https://icon-library.net/icon/selenium-icon-7.html">Selenium Icon #175341</a>
