@@ -45,3 +45,11 @@ Welcome to my Github page! I am Phanison and I am currently working as a DevOps 
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 </p>
+
+#### More detailed report
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
