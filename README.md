@@ -3,7 +3,9 @@
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/phanison898)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanison225/)
-[![Gmail](https://img.shields.io/badge/-Twitter-9cf?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/phanison225)
+[![Instagram](https://img.shields.io/badge/-Insta-ff69bf?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/phanison225/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/phanison225)
+[![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white)](https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA/)
 
 Welcome to my Github page! I am Phanison and I am currently as an DevOps & Automation Engineer at Wipro India Ltd. 
 
