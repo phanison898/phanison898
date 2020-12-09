@@ -7,15 +7,14 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/phanison225)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat&logo=Youtube&logoColor=white)](https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA/)
 
-Welcome to my Github page! I am Phanison and I am currently working as a DevOps & Automation Engineer at <b>Wipro India Ltd.</b>
+Welcome to my Github page! I am Phanison and I am a <b>Full-Stack Developer</br>
 
 <img align="right" alt="img" src="https://github.com/phanison898/phanison898/blob/main/cover_image_phanison898.png" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
-- Developing hybrid selenium framework to test both web and mobile device based applications through automation
-- Designing custom API for generating application test report with eye catching UI
-- Preparing for AWS certified solutions architect 🚀
+- Mastering MERN stack implementation
+- Mastering UI/UX design skills using Adobe-XD 🚀
 
 #### :muscle: Things I am challenging myself with:
 - Waking up earlier to make good use of the day
