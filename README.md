@@ -1,6 +1,6 @@
 ### Hi there 👋 
 ### This is Pháni Kumár - aka - Phánison!
-<a target=_blank>[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanison225/)</a>
+<a href="https://www.linkedin.com/in/phanison225/" target="_blank">![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)</a>
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/phanison898)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanison225/)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69bf?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/phanison225/)
