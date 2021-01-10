@@ -1,4 +1,5 @@
-### Hi there 👋 
+### Hi there 👋
+
 ### This is Pháni Kumár - aka - Phánison!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/phanison898/)
@@ -9,20 +10,22 @@
 
 Welcome to my Github page! I am Phanison and I am a <b>Full-Stack Developer</br>
 
-<img align="right" alt="img" src="https://github.com/phanison898/phanison898/blob/main/cover_image_phanison898.png" width="50%" height="auto" />
+<img align="right" alt="img" src="https://media.giphy.com/media/OBdhfMMmiygZ4mdtCv/giphy.gif" width="50%" height="auto" />
 
+#### 🌱 Things I am currently working on:
 
-#### 🌱 Things I am currently working on: 
 - Mastering MERN stack implementation
 - Mastering UI/UX design skills using Adobe-XD 🚀
 
 #### :muscle: Things I am challenging myself with:
+
 - Waking up earlier to make good use of the day
 - Coding at least 1/3 portion of every day
 - Exploring the technical world and adopt changes
 - Improve imagination power to look at the future in a better way
 
 #### :computer: Programming languages and tools:
+
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
 
@@ -43,6 +46,7 @@ Welcome to my Github page! I am Phanison and I am a <b>Full-Stack Developer</br>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+
 </p>
 <br />
 
