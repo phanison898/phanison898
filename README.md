@@ -31,7 +31,7 @@ I'm a **React Developer**
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img width="5%" src="https://www.vectorlogo.zone/logos/android/android-icon.svg"></code>
+<code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
 <br />
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
