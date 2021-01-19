@@ -13,14 +13,13 @@ I'm a **React Developer**
 
 #### 🚀 I'm currently occupied with:
 
-- Working on Linked-In clone using react & firebase (in-progress)
-- Building clones of all social media applications one after the other (todo)
+- Working on Linked-In clone using react & firebase
 
 #### :muscle: Goals in 2021:
 
 - Become master in react & react native
 - Master M.E.R.N development stack
-- Become full stack developer
+- Building clones of all social media applications one after the other
 
 #### :computer: Programming languages and tools:
 
