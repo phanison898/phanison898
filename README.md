@@ -13,8 +13,7 @@ I'm a **React Developer**
 
 #### 🚀 I'm currently occupied with:
 
-- Working on Linked-In clone using react & firebase
-
+- Working on Instagram web app clone using **`React`** , **`Redux`** , **`React-Router`** , **`Firebase`** , **`Material-UI`**
 #### :muscle: Goals in 2021:
 
 - Become master in react & react native
