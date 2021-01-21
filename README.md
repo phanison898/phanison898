@@ -11,14 +11,20 @@ I'm a **React Developer**
 
 <img align="right" alt="img" src="https://media.giphy.com/media/OBdhfMMmiygZ4mdtCv/giphy.gif" width="50%" height="auto" />
 
-#### 🚀 I'm currently occupied with:
+#### :hourglass_flowing_sand: Currently I'm occupied with:
 
-- Working on Instagram web app clone using **`React`** , **`Redux`** , **`React-Router`** , **`Firebase`** , **`Material-UI`**
+- Building **Instagram** clone using **`React`** , **`Redux`** , **`React-Router`** , **`Firebase`** , **`Material-UI`**
+
 #### :muscle: Goals in 2021:
 
 - Become master in react & react native
 - Master M.E.R.N development stack
 - Building clones of all social media applications one after the other
+
+#### 🚀 Completed Projects:
+
+- Facebook web app clone
+- LinkedIn web app clone
 
 #### :computer: Programming languages and tools:
 
