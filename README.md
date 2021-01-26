@@ -1,8 +1,6 @@
-#### Hello! there 👋
+Hello World! 👋
 
 ### I'm Phanison 🙂
-
-🎓 The Full Stack Developer
 
 <img alt="img" src="https://media.giphy.com/media/OBdhfMMmiygZ4mdtCv/giphy.gif" width="100%" height="auto" />
 
