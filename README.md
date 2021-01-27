@@ -1,7 +1,3 @@
-👋 Hello Friend
-
-### I'm Phanison 🙂
-
 <img alt="img" src="https://media.giphy.com/media/OBdhfMMmiygZ4mdtCv/giphy.gif" width="100%" height="auto" />
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanison225/)
