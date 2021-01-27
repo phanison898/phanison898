@@ -26,8 +26,6 @@ Hello World! 👋
 
 #### :computer: Programming languages and tools:
 
-<p><a href="http://www.google.com" target="_blank" ><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" /></a></p>
-
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
 
