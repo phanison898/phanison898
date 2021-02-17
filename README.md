@@ -43,7 +43,7 @@
 #### 📈 My GitHub Stats
 
 <p>
-    <img width="29%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=demo&theme=radical" />
-	<img width="70%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
+    <img width="27%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=demo&theme=radical" />
+	<img width="65%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
 
 </p>
