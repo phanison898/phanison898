@@ -5,6 +5,12 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/phanison225)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA/)
 
+#### Introduction
+
+<p>This is <span style="color:green"><b>Phanison</b></span> aka <i>Phani Kumar</i>.
+I'm a professional Full Stack React Developer based in India, Bangalore
+</p>
+
 #### :hourglass_flowing_sand: Currently I'm occupied with:
 
 - Building **Instagram** clone using **`React`** , **`Redux`** , **`React-Router`** , **`Firebase`** , **`Material-UI`**
