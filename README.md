@@ -44,5 +44,5 @@
 
 <p style="display:flex; align-items:center; justify-content:space-between">
 	<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
-    <img width=204 style="border-radius:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=demo&theme=radical" />
+    <img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=demo&theme=radical" />
 </>
