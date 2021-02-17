@@ -9,20 +9,28 @@
 
 - This is **Phanison** aka `Phani Kumar`. I'm a professional Full Stack React Developer based in India, Bangalore. I'm always a better person than yesterday and always try to dig the best out of me
 
+---
+
 #### 🎯 Goals in 2021:
 
 - Master react & react native skills
 - Master M.E.R.N development stack
 - Building clones of all social media applications one after the other, as a way to let the world know what I'm capable of
 
+---
+
 #### :hourglass_flowing_sand: Currently working project:
 
 - Building **Instagram** clone using **`React`** , **`Redux`** , **`React-Router`** , **`Firebase`** , **`Material-UI`**
+
+---
 
 #### &#10004; Recently completed projects:
 
 - <a href="https://github.com/phanison898/facebook-clone">Facebook web app clone</a>
 - <a href="https://github.com/phanison898/linked-in-clone">Linkedin web app clone</a>
+
+---
 
 #### :computer: Programming languages and tools:
 
@@ -43,6 +51,8 @@
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
 </p>
+
+---
 
 #### 📈 My GitHub Stats
 
