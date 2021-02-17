@@ -5,13 +5,13 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/phanison225)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA/)
 
-#### 👋 Introduction
+#### 👦 INTRODUCTION
 
-- This is **Phanison** aka `Phani Kumar`. I'm a professional Full Stack React Developer based in India, Bangalore. I'm always a better person than yesterday and always try to dig the best out of me
+This is **Phanison** aka `Phani Kumar`. I'm a professional Full Stack React Developer based in India, Bangalore. I'm always a better person than yesterday and always try to dig the best out of me
 
 ---
 
-#### 🎯 Goals in 2021:
+#### 🎯 GOALS IN 2021:
 
 - Master react & react native skills
 - Master M.E.R.N development stack
@@ -19,20 +19,20 @@
 
 ---
 
-#### :hourglass_flowing_sand: Currently working project:
+#### 💻 CURRENTLY WORKING ON:
 
 - Building **Instagram** clone using **`React`** , **`Redux`** , **`React-Router`** , **`Firebase`** , **`Material-UI`**
 
 ---
 
-#### &#10004; Recently completed projects:
+#### &#10004; RECENTLY COMPLETED PROJECTS:
 
 - <a href="https://github.com/phanison898/facebook-clone">Facebook web app clone</a>
 - <a href="https://github.com/phanison898/linked-in-clone">Linkedin web app clone</a>
 
 ---
 
-#### :computer: Programming languages and tools:
+#### ⚔ TOOLS & WEAPONS:
 
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
@@ -54,7 +54,7 @@
 
 ---
 
-#### 📈 My GitHub Stats
+#### 📈 MY GITUHUB STATS
 
 <p style="display:flex; align-items:center; justify-content:space-between">
 	<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
