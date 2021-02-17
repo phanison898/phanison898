@@ -56,7 +56,7 @@ This is **PHANISON** aka `Phani Kumar`. I'm a professional Full Stack Developer 
 
 ---
 
-#### 📈 MY GITUHUB STATS
+#### 📈 MY GITHUB STATS
 
 <p style="display:flex; align-items:center; justify-content:space-between">
 	<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
