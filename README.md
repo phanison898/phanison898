@@ -62,6 +62,4 @@ This is **PHANISON** aka `Phani Kumar`. I'm a professional Full Stack Developer 
 	<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
     <img width=204 style="border-radius:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=demo&theme=radical" />
 </p>
-<p>
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=phanison898" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=phanison898)](https://github-readme-streak-stats.herokuapp.com/?user=phanison898)
