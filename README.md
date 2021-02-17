@@ -34,7 +34,7 @@ This is **PHANISON** aka `Phani Kumar`. I'm a professional Full Stack Developer 
 
 ---
 
-#### ⚔ TOOLS & WEAPONS:
+#### ⚔ MY TOOLS & WEAPONS:
 
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
