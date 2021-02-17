@@ -21,7 +21,7 @@ I'm **PHANISON** aka `Phani Kumar`. I'm a professional Full Stack Developer base
 
 ---
 
-#### :red_circle: CURRENTLY WORKING ON:
+#### 🔴 CURRENTLY WORKING ON:
 
 - Building <a href="https://github.com/phanison898/instagram-clone">Instagram clone</a> using **`React`** , **`Redux`** , **`React-Router`** , **`Firebase`** , **`Material-UI`**
 
@@ -41,17 +41,18 @@ I'm **PHANISON** aka `Phani Kumar`. I'm a professional Full Stack Developer base
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYiSZ7pgNHIi4X9la9Z1_oHsBpntPBeY6fA&usqp=CAU"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
-<code><img width="4%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+
 </p>
 
 ---
