@@ -7,9 +7,7 @@
 
 #### Introduction
 
-<p>This is <span style="color:green"><b>Phanison</b></span> aka <i>Phani Kumar</i>.
-I'm a professional Full Stack React Developer based in India, Bangalore
-</p>
+This is **Phanison** aka `Phani Kumar`. I'm a professional Full Stack React Developer based in India, Bangalore
 
 #### :hourglass_flowing_sand: Currently I'm occupied with:
 
