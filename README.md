@@ -23,24 +23,27 @@
 #### :computer: Programming languages and tools:
 
 <p>
-	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
-
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
-<br />
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg"></code>
-<br />
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
 <code><img width="5%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+</p>
+
+#### 📈 My GitHub Stats
+
+<p>
+    <img width="29%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=demo&theme=radical" />
+	<img width="70%" align="right" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
 
 </p>
