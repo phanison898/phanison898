@@ -9,7 +9,7 @@
 
 #### 👦 MY SELF
 
-This is **PHANISON** aka `Phani Kumar`. I'm a professional Full Stack Developer based in INDIA, Bangalore. I'm always a better person than yesterday and always try to dig the best out of me
+I'm **PHANISON** aka `Phani Kumar`. I'm a professional Full Stack Developer based in INDIA, Bangalore. I'm always a better person than yesterday and always try to dig the best out of me
 
 ---
 
