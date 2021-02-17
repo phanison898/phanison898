@@ -7,7 +7,7 @@
 
 #### 🤝 Introduction
 
-This is **Phanison** aka `Phani Kumar`. I'm a professional Full Stack React Developer based in India, Bangalore
+- This is **Phanison** aka `Phani Kumar`. I'm a professional Full Stack React Developer based in India, Bangalore
 
 #### :hourglass_flowing_sand: Currently I'm occupied with:
 
