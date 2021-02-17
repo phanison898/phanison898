@@ -9,7 +9,7 @@
 
 #### 👦 INTRODUCTION
 
-This is **Phanison** aka `Phani Kumar`. I'm a professional Full Stack React Developer based in India, Bangalore. I'm always a better person than yesterday and always try to dig the best out of me
+This is **Phanison** aka `Phani Kumar`. I'm a professional Full Stack React Developer based in INDIA, Bangalore. I'm always a better person than yesterday and always try to dig the best out of me
 
 ---
 
