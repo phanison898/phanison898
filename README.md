@@ -4,6 +4,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69bf?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/phanison225/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/phanison225)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA/)
+![Visitors](https://visitor-badge.glitch.me/badge?page_id=phanison898.phanison898&style=flat-square&color=0088cc)
 
 #### :hourglass_flowing_sand: Currently I'm occupied with:
 
@@ -45,4 +46,7 @@
 <p style="display:flex; align-items:center; justify-content:space-between">
 	<img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
     <img width=204 style="border-radius:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phanison898&layout=demo&theme=radical" />
-</>
+</p>
+<p>
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=phanison898" />
+</p>
