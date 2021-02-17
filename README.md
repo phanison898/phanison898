@@ -5,6 +5,8 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/phanison225)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/channel/UC4FAldAo2Ow_2F447yggcqA/)
 
+---
+
 #### 👦 INTRODUCTION
 
 This is **Phanison** aka `Phani Kumar`. I'm a professional Full Stack React Developer based in India, Bangalore. I'm always a better person than yesterday and always try to dig the best out of me
