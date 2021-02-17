@@ -21,7 +21,7 @@
 
 #### &#10004; Recently completed projects:
 
-- <a href="https://github.com/phanison898/facebook-clone" style="text-decoration:none">Facebook web app clone</a>
+- <a href="https://github.com/phanison898/facebook-clone">Facebook web app clone</a>
 - <a href="https://github.com/phanison898/linked-in-clone">Linkedin web app clone</a>
 
 #### :computer: Programming languages and tools:
