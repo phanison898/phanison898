@@ -9,25 +9,25 @@
 
 #### 👦 MY SELF
 
-I'm **PHANISON** aka `Phani Kumar`. I'm a professional Full Stack Developer based in INDIA, Bangalore. I'm always a better person than yesterday and always try to dig the best out of me
+I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** based in Bangalore, INDIA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 ---
 
 #### 🎯 GOALS IN 2021:
 
-- Master react & react native skills
-- Master M.E.R.N development stack
+- Master React & React-Native skills
+- Master MERN stack
 - Building clones of all social media applications one after the other, as a way to let the world know what I'm capable of
 
 ---
 
 <h4>⏳ CURRENTLY WORKING ON: <img width="13px" src="./assets/gifs/red-dot.gif" /></h4>
 
-- Building <a href="https://github.com/phanison898/instagram-clone">Instagram clone</a> using **`React`** , **`Redux`** , **`React-Router`** , **`Firebase`** , **`Material-UI`**
+- Re-building <a href="https://github.com/phanison898/instagram-clone">Instagram web application</a> using **`React`** , **`Redux`** ,**`Redux-Thunk`** , **`React-Router-Dom`** , **`Firebase`** , **`Material-UI`**
 
 ---
 
-#### :white_check_mark: RECENTLY COMPLETED PROJECTS:
+#### ✅ RECENTLY COMPLETED PROJECTS:
 
 - <a href="https://github.com/phanison898/facebook-clone">Facebook web app clone</a>
 - <a href="https://github.com/phanison898/linked-in-clone">Linkedin web app clone</a>
