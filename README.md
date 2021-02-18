@@ -41,6 +41,8 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 - I watch web series alot 🍿, when I'm not ⚠ coding
 - I Love ☕ coffee, 🥤 coke & 🍷 Red-Bull
 
+---
+
 #### ⚔ MY TOOLS & WEAPONS:
 
 <p>
