@@ -21,7 +21,7 @@ I'm **PHANISON** aka `Phani Kumar`. I'm a professional Full Stack Developer base
 
 ---
 
-#### 🔴 CURRENTLY WORKING ON:
+<h4>⏳ CURRENTLY WORKING ON: <img width="13px" src="./assets/gifs/red-dot.gif" /></h4>
 
 - Building <a href="https://github.com/phanison898/instagram-clone">Instagram clone</a> using **`React`** , **`Redux`** , **`React-Router`** , **`Firebase`** , **`Material-UI`**
 
