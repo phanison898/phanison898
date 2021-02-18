@@ -34,6 +34,13 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 
 ---
 
+#### 😉 Fun facts about me:
+
+- By hobby I'm a Motion Graphic Designer 🎞
+- I can solve 3x3 Rubix cube under a minute 🤹‍♂️
+- I watch web series alot 🍿, when I'm not ⚠ coding
+- I Love ☕ coffee, 🥤 coke & 🍷 Red-Bull
+
 #### ⚔ MY TOOLS & WEAPONS:
 
 <p>
