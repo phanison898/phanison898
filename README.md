@@ -21,7 +21,7 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 
 ---
 
-<h4>⏳ CURRENTLY WORKING ON: <img width="13px" src="./assets/gifs/red-dot.gif" /></h4>
+<h4>⏳ CURRENTLY WORKING ON: <img width="13px" src="./assets/red-dot.gif" /></h4>
 
 - Re-building <a href="https://github.com/phanison898/instagram-clone">Instagram web application</a> using **`React`** , **`Redux`** ,**`Redux-Thunk`** , **`React-Router-Dom`** , **`Firebase`** , **`Material-UI`**
 
