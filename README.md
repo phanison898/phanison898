@@ -44,6 +44,10 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 
 ---
 
+![Spotify](https://novatorem-phanison898.vercel.app/api/spotify)
+
+---
+
 #### ⚔ MY TOOLS & WEAPONS:
 
 <p>
