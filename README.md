@@ -50,6 +50,7 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></code>
+<code><img width="4%" src="https://www.vectorlogo.zone/logos/expoio/expoio-icon.svg"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
 <code><img width="4%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHYiSZ7pgNHIi4X9la9Z1_oHsBpntPBeY6fA&usqp=CAU"></code>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"></code>
