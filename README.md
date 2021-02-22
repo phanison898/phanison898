@@ -44,7 +44,7 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 
 ---
 
-<img src="https://novatorem-dusky-zeta.vercel.app/api/spotify-playing" />
+![Spotify](https://novatorem.vercel.app/api/spotify)]
 
 ---
 
