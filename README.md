@@ -29,12 +29,12 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 
 #### ✅ RECENTLY COMPLETED PROJECTS:
 
-<p style="display:flex" >
+<p style="display:flex">
     <a href="https://github.com/phanison898/linked-in-clone">
-        <img width=240 style="margin-right:20px" src="https://media.giphy.com/media/l5q8tUAH5vtcL7QzAk/giphy.gif" />
+        <img width=240 src="https://media.giphy.com/media/l5q8tUAH5vtcL7QzAk/giphy.gif" />
     </a>
     <a href="https://github.com/phanison898/facebook-clone">
-        <img width=240 style="margin-right:20px" src="https://media.giphy.com/media/ZBrjiNNMqqoiZFGTyV/giphy.gif" />
+        <img width=240 src="https://media.giphy.com/media/ZBrjiNNMqqoiZFGTyV/giphy.gif" />
     </a>
 
 </p>
