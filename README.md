@@ -29,8 +29,15 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 
 #### ✅ RECENTLY COMPLETED PROJECTS:
 
-- <a href="https://github.com/phanison898/linked-in-clone">LinkedIn web app clone</a>
-- <a href="https://github.com/phanison898/facebook-clone">Facebook web app clone</a>
+<p style="display:flex" >
+    <a href="https://github.com/phanison898/linked-in-clone">
+        <img width=240 style="margin-right:20px" src="https://media.giphy.com/media/l5q8tUAH5vtcL7QzAk/giphy.gif" />
+    </a>
+    <a href="https://github.com/phanison898/facebook-clone">
+        <img width=240 style="margin-right:20px" src="https://media.giphy.com/media/ZBrjiNNMqqoiZFGTyV/giphy.gif" />
+    </a>
+
+</p>
 
 ---
 
