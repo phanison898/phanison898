@@ -41,10 +41,8 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 - Favorite sport : Cricket 🏏
 - I watch web series alot 🍿, when I'm not ⚠ coding
 - I Love ☕ coffee, 🥤 coke & 🍷 Red-Bull
-
-#### 📀 CURRENTLY I'M LISTENING
-
-![Spotify](https://novatorem-phanison898.vercel.app/api/spotify)
+- I love music. Here's what I'm listening in spotify right now 📀
+  ![Spotify](https://novatorem-phanison898.vercel.app/api/spotify)
 
 #### ⚔ MY TOOLS & WEAPONS:
 
