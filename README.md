@@ -45,10 +45,8 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 
 - By hobby I'm a Motion Graphic Designer 🎞
 - I can solve 3x3 Rubix cube under a minute 🤹‍♂️
-- Favorite sport : Cricket 🏏
-- I watch web series alot 🍿, when I'm not ⚠ coding
-- I Love ☕ coffee, 🥤 coke & 🍷 Red-Bull
-- I love music. Here's what I'm listening in spotify right now 📀
+- I Love to drink coffee ☕ & coke 🥤
+- I love music. Here's what I'm listening in Spotify right now 📀
 
 ![Spotify](https://novatorem-phanison898.vercel.app/api/spotify)
 
