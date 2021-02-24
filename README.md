@@ -17,7 +17,7 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 
 - Master React & React-Native skills
 - Master MERN stack
-- Building clones of all social media applications one after the other, as a way to let the world know what I'm capable of
+- Rebuild all social media applications one after the other
 
 ---
 
