@@ -31,7 +31,7 @@ I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** 
 
 <p style="display:flex">
     <a href="https://github.com/phanison898/linked-in-clone">
-        <img width=240 src="https://media.giphy.com/media/l5q8tUAH5vtcL7QzAk/giphy.gif" />
+        <img width=240 src="https://media.giphy.com/media/PTQn2S6X7XtsPD6j5j/giphy.gif" />
     </a>
     <a href="https://github.com/phanison898/facebook-clone">
         <img width=240 src="https://media.giphy.com/media/ZBrjiNNMqqoiZFGTyV/giphy.gif" />
