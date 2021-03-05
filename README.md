@@ -7,9 +7,9 @@
 
 ---
 
-#### 👦 LET ME INTRODUCE MY SELF
+#### 👦 ABOUT
 
-I'm **PHANISON** aka `PHANI KUMAR`. I'm a professional **MERN Stack Developer** based in Bangalore, INDIA. I always try to compete with the world, which makes me a better person than I am yesterday
+I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bangalore, INDIA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 ---
 
