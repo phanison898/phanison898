@@ -87,4 +87,74 @@ I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bang
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanison898" />
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128316%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 282 Contributions in the Year 2021
+ > 
+> 📦 24.6 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 14 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   26.53% 
+🌃 Evening    81 commits     ███████░░░░░░░░░░░░░░░░░░   27.55% 
+🌙 Night      80 commits     ██████░░░░░░░░░░░░░░░░░░░   27.21%
+
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
+Tuesday      53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03% 
+Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+Thursday     64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.77% 
+Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+Saturday     45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
+Sunday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               6 repos             █████████████░░░░░░░░░░░░   54.55% 
+HTML                     4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
+Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/phanison898/phanison898/main/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
