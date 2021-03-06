@@ -87,22 +87,10 @@ I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bang
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=phanison898" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128316%20lines%20of%20code-blue)
 
-**🐱 My Github Data** 
-
-> 🏆 282 Contributions in the Year 2021
- > 
-> 📦 24.6 kB Used in Github's Storage 
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 14 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
@@ -154,10 +142,6 @@ Python                   1 repo              ██░░░░░░░░░�
 
 ```
 
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/phanison898/phanison898/main/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
