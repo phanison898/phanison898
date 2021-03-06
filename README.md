@@ -73,10 +73,6 @@ I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bang
 <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=phanison898&show_icons=true&theme=radical" />
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128316%20lines%20of%20code-blue)
-
 **I'm a Night 🦉** 
 
 ```text
