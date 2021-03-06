@@ -73,60 +73,61 @@ I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bang
 <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=phanison898&show_icons=true&theme=radical" />
 
 <!--START_SECTION:waka-->
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-124-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-128316%20lines%20of%20code-blue)
 
-**I'm a Night 🦉**
+**I'm a Night 🦉** 
 
 ```text
-🌞 Morning    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71%
-🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   26.53%
-🌃 Evening    81 commits     ███████░░░░░░░░░░░░░░░░░░   27.55%
+🌞 Morning    55 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.71% 
+🌆 Daytime    78 commits     ██████░░░░░░░░░░░░░░░░░░░   26.53% 
+🌃 Evening    81 commits     ███████░░░░░░░░░░░░░░░░░░   27.55% 
 🌙 Night      80 commits     ██████░░░░░░░░░░░░░░░░░░░   27.21%
 
 ```
-
-📅 **I'm Most Productive on Thursday**
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12%
-Tuesday      53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03%
-Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24%
-Thursday     64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.77%
-Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5%
-Saturday     45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31%
+Monday       18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.12% 
+Tuesday      53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03% 
+Wednesday    36 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.24% 
+Thursday     64 commits     █████░░░░░░░░░░░░░░░░░░░░   21.77% 
+Friday       25 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.5% 
+Saturday     45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.31% 
 Sunday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.03%
 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Kolkata
 
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects:
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
-💻 Operating System:
+💻 Operating System: 
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in JavaScript**
+**I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             █████████████░░░░░░░░░░░░   54.55%
-HTML                     4 repos             █████████░░░░░░░░░░░░░░░░   36.36%
+JavaScript               6 repos             █████████████░░░░░░░░░░░░   54.55% 
+HTML                     4 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
 Python                   1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   9.09%
 
 ```
+
+
 
 <!--END_SECTION:waka-->
