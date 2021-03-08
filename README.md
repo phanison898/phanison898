@@ -13,7 +13,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bang
 
 ---
 
-#### ⚔ MY TOOLS & WEAPONS:
+#### ⚔ MY TOOLS & PROGRAMMING LANGUAGES:
 
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
