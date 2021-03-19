@@ -60,7 +60,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bang
 
 ---
 
-<h4>📀 I LOVE MUSIC : <img width="11px" src="./assets/red-dot.gif" /></h4>
+<h4>📀 SPOTIFY TRACK I'M LISTENING NOW: <img width="11px" src="./assets/red-dot.gif" /></h4>
 
 ![Spotify](https://novatorem-phanison898.vercel.app/api/spotify)
 
