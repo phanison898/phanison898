@@ -7,13 +7,13 @@
 
 ---
 
-#### 👦 ABOUT
+#### 👦 ABOUT ME
 
 I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bangalore, INDIA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 ---
 
-#### ⚔ TOOLS & PROGRAMMING LANGUAGES:
+#### ⚔ SKILLS & TOOLS:
 
 <p>
 <code><img width="4%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg"></code>
@@ -42,7 +42,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bang
 
 - Master React & React-Native skills
 - Master MERN stack
-- Rebuild all social media applications one after the other
+- Rebuild all social media applications one after the other, to get better practise
 
 ---
 
