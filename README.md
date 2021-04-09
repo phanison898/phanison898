@@ -73,7 +73,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bang
 <img style="border-radius:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=phanison898&show_icons=true&theme=radical" />
 
 <details>
-<summary>VIEW MORE STATS ...</summary>
+<summary>📌 View more stats ...</summary>
 <br>
     
 <!--START_SECTION:waka-->
