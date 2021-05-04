@@ -106,16 +106,17 @@ Sunday       55 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 1 min               ███████████████████░░░░░░   76.97% 
+JavaScript               0 secs              █████░░░░░░░░░░░░░░░░░░░░   23.03%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+instagram-clone          2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
