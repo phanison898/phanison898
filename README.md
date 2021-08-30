@@ -106,16 +106,18 @@ Sunday       74 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Java                     5 mins              ████████████████████████░   95.8% 
+Batchfile                0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.2%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  5 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Desktop                  5 mins              █████████████████████████   100.0% 
+Downloads                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  5 mins              █████████████████████████   100.0%
 
 ```
 
@@ -131,7 +133,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2021
+ Last Updated on 30/08/2021
 <!--END_SECTION:waka-->
 
 </details>
