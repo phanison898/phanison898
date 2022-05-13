@@ -9,7 +9,7 @@
 
 #### 👦 ABOUT ME
 
-I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bangalore, INDIA. I always try to compete with the world, which makes me a better person than I am yesterday
+I'm **Phanison** aka `Phani Kumar`. I'm a full time **Automation & DevOps Engineer** and freelance **Full Stack Developer** based in Bangalore, INDIA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 ---
 
@@ -38,11 +38,9 @@ I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bang
 
 ---
 
-#### 🎯 GOALS IN 2021:
+#### 🎯 GOALS IN 2022:
 
-- Master React & React-Native skills
-- Master MERN stack
-- Rebuild all social media applications one after the other, to get better practise
+- Build something new to test my skills & knowledge
 
 ---
 
