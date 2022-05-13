@@ -77,7 +77,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a **Full Stack Developer** based in Bang
 <br>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
 **I'm a Night 🦉** 
 
@@ -138,7 +138,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2022 00:34:54 UTC
+ Last Updated on 13/05/2022 00:42:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
