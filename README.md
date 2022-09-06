@@ -75,7 +75,49 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **Automation & DevOps Engine
 <br>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-32%20hrs%2024%20mins-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    37 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.18% 
+🌆 Daytime    61 commits     █████░░░░░░░░░░░░░░░░░░░░   23.37% 
+🌃 Evening    88 commits     ████████░░░░░░░░░░░░░░░░░   33.72% 
+🌙 Night      75 commits     ███████░░░░░░░░░░░░░░░░░░   28.74%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       11 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   4.21% 
+Tuesday      42 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.09% 
+Wednesday    62 commits     ██████░░░░░░░░░░░░░░░░░░░   23.75% 
+Thursday     53 commits     █████░░░░░░░░░░░░░░░░░░░░   20.31% 
+Friday       16 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.13% 
+Saturday     38 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.56% 
+Sunday       39 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.94%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
 
 **I Mostly Code in JavaScript** 
 
@@ -90,7 +132,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 05/09/2022 00:46:03 UTC
+ Last Updated on 06/09/2022 00:44:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
