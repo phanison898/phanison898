@@ -106,16 +106,17 @@ Sunday       39 commits     ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      1 hr 18 mins        █████████████████████░░░░   84.42% 
+HTML                     14 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.58%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 32 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+plainHTML                1 hr 32 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 32 mins        █████████████████████████   100.0%
 
 ```
 
@@ -132,7 +133,7 @@ HCL                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2022 00:36:11 UTC
+ Last Updated on 26/11/2022 00:32:41 UTC
 <!--END_SECTION:waka-->
 
 </details>
