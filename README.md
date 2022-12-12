@@ -38,9 +38,9 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **Automation & DevOps Engine
 
 ---
 
-#### 🎯 GOALS IN 2022:
+#### 🎯 GOALS IN 2023:
 
-- Build something new to test my skills & knowledge
+- Master Devops
 
 ---
 
