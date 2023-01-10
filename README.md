@@ -42,7 +42,6 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **Automation & DevOps Engine
 
 - *Devops Engineer*
 - *Full stack dev*
-- Wish to perform both roles
 ---
 
 #### ✅ RECENTLY COMPLETED PROJECTS:
