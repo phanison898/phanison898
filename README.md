@@ -75,7 +75,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **Automation & DevOps Engine
 <br>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-95%20hrs%2058%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -135,7 +135,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 22/01/2023 00:37:13 UTC
+ Last Updated on 23/01/2023 00:32:44 UTC
 <!--END_SECTION:waka-->
 
 </details>
