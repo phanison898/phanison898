@@ -104,16 +104,18 @@ Sunday                   121 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               1 min               ████████████████░░░░░░░░░   62.92 % 
+JSON                     1 min               █████████░░░░░░░░░░░░░░░░   37.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ac                       2 mins              ████████████████████████░   97.28 % 
+horizon_automation       0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,7 +131,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 20/04/2023 00:30:54 UTC
+ Last Updated on 21/04/2023 00:31:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
