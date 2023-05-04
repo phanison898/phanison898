@@ -104,18 +104,16 @@ Sunday                   121 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JSON                     19 mins             ███████████████░░░░░░░░░░   61.73 % 
-JavaScript               11 mins             ██████████░░░░░░░░░░░░░░░   38.14 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-facebook-clone           31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -131,7 +129,7 @@ Python                   2 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 03/05/2023 00:31:18 UTC
+ Last Updated on 04/05/2023 00:31:29 UTC
 <!--END_SECTION:waka-->
 
 </details>
