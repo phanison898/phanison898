@@ -104,16 +104,16 @@ Sunday                   128 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Downloads                0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -129,7 +129,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 05/12/2023 00:32:19 UTC
+ Last Updated on 06/12/2023 00:32:19 UTC
 <!--END_SECTION:waka-->
 
 </details>
