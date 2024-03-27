@@ -75,7 +75,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **Automation & DevOps Engine
 <br>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-169%20hrs%204%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -105,7 +105,7 @@ Sunday                   128 commits         ███░░░░░░░░�
 
 💬 Programming Languages: 
 TypeScript               9 hrs 41 mins       █████████████████░░░░░░░░   66.22 % 
-HTML                     3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.31 % 
+HTML                     3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
 Python                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
 JSON                     24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
 CSS                      23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.72 % 
@@ -137,7 +137,7 @@ Python                   2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/03/2024 00:30:21 UTC
+ Last Updated on 27/03/2024 00:30:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
