@@ -9,7 +9,7 @@
 
 #### 👦 ABOUT ME
 
-I'm **Phanison** aka `Phani Kumar`. I'm a full time **Automation & DevOps Engineer** and freelance **Full Stack Developer** based in Bangalore, INDIA. I always try to compete with the world, which makes me a better person than I am yesterday
+I'm **Phanison** aka `Phani Kumar`. I'm a full time **SEDT & DevOps Engineer** and freelance **Full Stack Developer** based in Bangalore, INDIA. I always try to compete with the world, which makes me a better person than I am yesterday
 
 ---
 
@@ -41,7 +41,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **Automation & DevOps Engine
 #### 🎯 GOALS IN 2024:
 
 - *Devops Engineer*
-- *Full stack dev*
+- *Full stack SDET*
 ---
 
 #### ✅ RECENTLY COMPLETED PROJECTS:
@@ -63,7 +63,15 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **Automation & DevOps Engine
 ![Spotify](https://novatorem-phanison898.vercel.app/api/spotify)
 
 ---
+#### 📈 TOP MOST PROJECTS
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=provisioning-test-automation-env&theme=dark)](https://github.com/phanison898/provisioning-test-automation-env)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=api-automation-with-rest-assured&theme=dark)](https://github.com/phanison898/api-automation-with-rest-assured)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=facebook-clone&theme=dark)](https://github.com/phanison898/facebook-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=linked-in-clone&theme=dark)](https://github.com/phanison898/linked-in-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=instagram-clone&theme=dark)](https://github.com/phanison898/instagram-clone)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=memories-app-rest-api&theme=dark)](https://github.com/phanison898/memories-app-rest-api)
+---
 #### 📈 MY GITHUB STATS
 
 <img style="border-radius:10px" src="https://github-readme-stats.vercel.app/api?username=phanison898&show_icons=true&theme=radical" />
