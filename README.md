@@ -1,6 +1,6 @@
 <img alt="img" src="https://media.giphy.com/media/aWRj1FqCdeEmUMqEO6/giphy.gif" width="100%" height="auto" />
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanison225/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanison/)
 [![Instagram](https://img.shields.io/badge/-Instagram-ff69bf?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/phanison225/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_phanison)
 [![Youtube](https://img.shields.io/badge/-Youtube-red?style=flat-square&logo=Youtube&logoColor=white)](https://www.youtube.com/c/phanison)
