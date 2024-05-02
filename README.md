@@ -58,7 +58,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **SEDT & DevOps Engineer** a
 
 ---
 
-<h4>📀 SPOTIFY TRACK I'M LISTENING NOW: <img width="11px" src="./assets/red-dot.gif" /></h4>
+<h4> 💻 Code <=> Music 🎧: <img width="11px" src="./assets/red-dot.gif" /></h4>
 
 ![Spotify](https://novatorem-phanison898.vercel.app/api/spotify)
 
