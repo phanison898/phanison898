@@ -67,6 +67,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **SEDT & DevOps Engineer** a
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=provisioning-test-automation-env&theme=dark)](https://github.com/phanison898/provisioning-test-automation-env)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=selenium-tdd-framework&theme=dark)](https://github.com/phanison898/selenium-tdd-framework)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=appium-automation&theme=dark)](https://github.com/phanison898/appium-automation)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=java-bdd-automation-framework&theme=dark)](https://github.com/phanison898/java-bdd-automation-framework)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=api-automation-with-rest-assured&theme=dark)](https://github.com/phanison898/api-automation-with-rest-assured)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=phanison898&repo=facebook-clone&theme=dark)](https://github.com/phanison898/facebook-clone)
