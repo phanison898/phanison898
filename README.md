@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15A7F7&center=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;This+is+Phani+%F0%9F%A5%B7;An+SDET+%26+DevOps+Engineer+)](https://git.io/typing-svg)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15A7F7&center=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;This+is+Phani+%F0%9F%A5%B7;An+SDET+%26+DevOps+Engineer;" />
+</h1>
 
 <img alt="img" src="https://media.giphy.com/media/aWRj1FqCdeEmUMqEO6/giphy.gif" width="100%" height="auto" />
 
