@@ -19,7 +19,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **SEDT & DevOps Engineer** a
 
 #### ⚔ SKILLS & TOOLS:
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=java,selenium,maven,gherkin,jenkins,git,github,docker,kubernetes,aws,terraform,mysql,eclipse" />
+    <img src="https://skillicons.dev/icons?i=java,selenium,maven,gherkin,jenkins,git,github,docker,kubernetes,aws,terraform,postman,mysql,eclipse" />
 </p>
 
 ---
