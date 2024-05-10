@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=15A7F7&center=true&random=false&width=435&lines=Hi+There+%F0%9F%91%8B;This+is+Phani+%F0%9F%A5%B7;An+SDET+%26+DevOps+Engineer+)](https://git.io/typing-svg)
+
 <img alt="img" src="https://media.giphy.com/media/aWRj1FqCdeEmUMqEO6/giphy.gif" width="100%" height="auto" />
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/phanison/)
