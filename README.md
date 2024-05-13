@@ -65,7 +65,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **SEDT & DevOps Engineer** a
 <br>
     
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-178%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-179%20hrs%2020%20mins-blue)
 
 **I'm a Night 🦉** 
 
@@ -126,7 +126,7 @@ CSS                      2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/05/2024 00:35:42 UTC
+ Last Updated on 13/05/2024 00:33:50 UTC
 <!--END_SECTION:waka-->
 
 </details>
