@@ -13,7 +13,7 @@
 
 #### 👦 ABOUT ME
 
-I'm **Phanison** aka `Phani Kumar`. I'm a full time **Software Developer in Test** and freelance **Full Stack Developer** based in Hyderabad, INDIA. I always try to compete with the world, which makes me a better person than I am yesterday
+I'm **Phanison** aka `Phani Kumar`. I'm a full time **Software Developer in Test** and freelance **Full Stack Developer** based in Hyderabad, INDIA.
 
 ---
 
