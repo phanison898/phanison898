@@ -20,6 +20,7 @@ I'm **Phanison** aka `Phani Kumar`. I'm a full time **Software Developer in Test
 #### ⚔ SKILLS & TOOLS:
 <p align="center">
     <img src="https://skillicons.dev/icons?i=java,selenium,maven,gherkin,jenkins,git,github,docker,kubernetes,aws,terraform,postman,mysql,eclipse" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,js,ts,mongodb,express,react,nextjs,nodejs,tailwindcss,mui" />
 </p>
 
 ---
